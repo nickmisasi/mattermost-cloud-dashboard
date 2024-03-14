@@ -1,0 +1,1 @@
+An electron/React/Go utility to bootstrap Kubernetes clusters, and deploy helm charts to that cluster for cloud native deployments of Mattermost. This project has been moved under the Mattermost org: https://github.com/mattermost/mattermost-cloudnative-bootstrapper
